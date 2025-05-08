@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|c:\\users\\rudol\\source\\repos\\testbenchtargetwinforms\\testbenchtargetwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|solutionrelative:testbenchtargetwinforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|c:\\users\\rudol\\source\\repos\\testbenchtargetwinforms\\testbenchtargetwinforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|solutionrelative:testbenchtargetwinforms\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|c:\\users\\rudol\\source\\repos\\testbenchtargetwinforms\\testbenchtargetwinforms\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|solutionrelative:testbenchtargetwinforms\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TestBenchTargetWinForms||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|c:\\users\\rudol\\source\\repos\\testbenchtargetwinforms\\testbenchtargetwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|solutionrelative:testbenchtargetwinforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|c:\\users\\rudol\\source\\repos\\testbenchtargetwinforms\\testbenchtargetwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|solutionrelative:testbenchtargetwinforms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\testbenchtargetwinforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|solutionrelative:testbenchtargetwinforms\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C95B2A9C-8563-429E-9D40-F2DCC0A3BE8D}|TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj|c:\\users\\rudol\\source\\repos\\testbenchtargetwinforms\\testbenchtargetwinforms\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 448,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\Form2.cs",
+              "RelativeDocumentMoniker": "TestBenchTargetWinForms\\Form2.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\Form2.cs",
+              "RelativeToolTip": "TestBenchTargetWinForms\\Form2.cs",
+              "ViewState": "AgIAAJQCAAAAAAAAAAAAwKkCAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T15:33:23.919Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\Program.cs",
+              "RelativeDocumentMoniker": "TestBenchTargetWinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\Program.cs",
+              "RelativeToolTip": "TestBenchTargetWinForms\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:07:51.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\App.config",
+              "RelativeDocumentMoniker": "TestBenchTargetWinForms\\App.config",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\App.config",
+              "RelativeToolTip": "TestBenchTargetWinForms\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-08T19:07:23.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.manifest",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\app.manifest",
+              "RelativeDocumentMoniker": "TestBenchTargetWinForms\\app.manifest",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\app.manifest",
+              "RelativeToolTip": "TestBenchTargetWinForms\\app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-05-08T19:05:28.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "TestBenchTargetWinForms\\Form1.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\Form1.cs",
+              "RelativeToolTip": "TestBenchTargetWinForms\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T19:03:47.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "TestBenchTargetWinForms\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\Form1.Designer.cs",
+              "RelativeToolTip": "TestBenchTargetWinForms\\Form1.Designer.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAewGIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:35:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestBenchTargetWinForms",
+              "DocumentMoniker": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj",
+              "RelativeDocumentMoniker": "TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj",
+              "ToolTip": "C:\\Users\\rudol\\source\\repos\\TestBenchTargetWinForms\\TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj",
+              "RelativeToolTip": "TestBenchTargetWinForms\\TestBenchTargetWinForms.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T15:36:19.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

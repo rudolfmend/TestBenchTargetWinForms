@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RUDOLFLENOVO</Machine>
+    <WindowsUser>rudol</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>RudolfMendzezof.197270BC50CAA</PackageIdentityName>
+    <PackageIdentityPublisher>CN=A22C22A7-5E85-49D2-8EEF-B99583D1BE25</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\obj\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>
+    </WindowsSdkPath>
+    <LayoutDir>C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\bin\AnyCPU\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>68D57AEC00D9B4E2B6968B750797CC7C11984006D7F256897D536F2AC74DFAA9</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>RudolfMendzezof.197270BC50CAA_1.1.10.0_neutral__tpxs3xgy70zep</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>RudolfMendzezof.197270BC50CAA_tpxs3xgy70zep!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>RudolfMendzezof.197270BC50CAA</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=A22C22A7-5E85-49D2-8EEF-B99583D1BE25</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.10.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\bin\AnyCPU\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-05-08T15:37:47.725</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\LargeTile.scale-100.png">
+      <PackagePath>Images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\LargeTile.scale-125.png">
+      <PackagePath>Images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\LargeTile.scale-150.png">
+      <PackagePath>Images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.729</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\LargeTile.scale-200.png">
+      <PackagePath>Images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.835</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\LargeTile.scale-400.png">
+      <PackagePath>Images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.091</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SmallTile.scale-100.png">
+      <PackagePath>Images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:03.793</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SmallTile.scale-125.png">
+      <PackagePath>Images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:03.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SmallTile.scale-150.png">
+      <PackagePath>Images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:03.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SmallTile.scale-200.png">
+      <PackagePath>Images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:03.891</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SmallTile.scale-400.png">
+      <PackagePath>Images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:03.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SplashScreen.scale-100.png">
+      <PackagePath>Images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SplashScreen.scale-125.png">
+      <PackagePath>Images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.846</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SplashScreen.scale-150.png">
+      <PackagePath>Images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.946</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:06.087</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2025-02-17T15:16:44.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\SplashScreen.scale-400.png">
+      <PackagePath>Images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:06.557</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square150x150Logo.scale-100.png">
+      <PackagePath>Images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:03.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square150x150Logo.scale-125.png">
+      <PackagePath>Images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.024</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square150x150Logo.scale-150.png">
+      <PackagePath>Images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.067</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square150x150Logo.scale-400.png">
+      <PackagePath>Images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.201</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.593</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.721</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.673</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.443</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.571</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.498</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.scale-100.png">
+      <PackagePath>Images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.118</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.scale-125.png">
+      <PackagePath>Images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.scale-150.png">
+      <PackagePath>Images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.174</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.205</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.scale-400.png">
+      <PackagePath>Images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.300</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.470</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.415</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.329</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:05.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\StoreLogo.scale-100.png">
+      <PackagePath>Images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:06.596</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\StoreLogo.scale-125.png">
+      <PackagePath>Images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:06.635</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\StoreLogo.scale-150.png">
+      <PackagePath>Images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:06.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\StoreLogo.scale-200.png">
+      <PackagePath>Images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:06.717</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\StoreLogo.scale-400.png">
+      <PackagePath>Images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:06.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Wide310x150Logo.scale-100.png">
+      <PackagePath>Images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Wide310x150Logo.scale-125.png">
+      <PackagePath>Images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Wide310x150Logo.scale-150.png">
+      <PackagePath>Images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.402</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\Images\Wide310x150Logo.scale-400.png">
+      <PackagePath>Images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2025-04-27T19:05:04.539</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinFormsSetup\bin\AnyCPU\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2025-05-08T15:37:47.567</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll">
+      <PackagePath>TestBenchTargetWinForms\Newtonsoft.Json.dll</PackagePath>
+      <Modified>2023-03-08T07:09:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinForms\TestBenchTarget-r_128x128.ico">
+      <PackagePath>TestBenchTargetWinForms\TestBenchTarget-r_128x128.ico</PackagePath>
+      <Modified>2025-05-05T20:10:59.463</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinForms\bin\Debug\TestBenchTargetWinForms.exe">
+      <PackagePath>TestBenchTargetWinForms\TestBenchTargetWinForms.exe</PackagePath>
+      <Modified>2025-05-08T15:37:46.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\rudol\source\repos\TestBenchTargetWinForms\TestBenchTargetWinForms\bin\Debug\TestBenchTargetWinForms.exe.config">
+      <PackagePath>TestBenchTargetWinForms\TestBenchTargetWinForms.exe.config</PackagePath>
+      <Modified>2025-04-27T12:22:58.386</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
