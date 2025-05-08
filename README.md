@@ -1,6 +1,6 @@
 # SimpleTestApp
 
-A sample application designed to serve as a testing subject for developers creating monitoring, accessibility, or UI automation tools. This app provides predictable user interface elements and behaviors that developers can use to test their monitoring solutions. Works on Windows from 10 to the latest.
+A sample application designed to serve as a testing subject for developers creating monitoring, accessibility, or UI automation tools. This app provides predictable user interface elements and behaviors that developers can use to test their monitoring solutions. Works on Windows 7, 8 and 8.1.
 
 ## Main features:  
     - Small and fast application 
